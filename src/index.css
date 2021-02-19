@@ -1,0 +1,28 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container{
+  margin: 10px 30px;
+}
+.navbar{
+  width: 100vw;
+  padding:10px 30px;
+  background-color: lightgrey;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+
+ul{
+  display: flex
+}
+li{
+  list-style-type: none;
+}
+
+a{
+  text-decoration: none;
+}
